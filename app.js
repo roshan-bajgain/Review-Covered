@@ -18,7 +18,7 @@ const reviews = [
         name: "Dipesh Bajgain",
         job: "Web Developer",
         img: "photo.jpg",
-        text: 'sduisdghi hsi uihij idfuhj uu iri hhsduh iudfhib ufb jdfidfh hdfjh dfhfo' 
+        text: 'the quick brown fox jumps over a lazy dog. the person is the called a man with the power of the programmer' 
     },
     {
         id: 4,
