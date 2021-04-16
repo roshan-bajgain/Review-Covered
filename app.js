@@ -3,7 +3,7 @@ const reviews = [
         id: 1,
         name: "Roshan Bajgain",
         job: "Software Engineer",
-        img: "bb.jpg",
+        img: "bb.JPG",
         text: 'He is one of the best software engineer in the world right now. this contribution towards the country is very interesting.As he import  from nepal.'   
     },
     {
